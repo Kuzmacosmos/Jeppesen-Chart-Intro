@@ -15,6 +15,7 @@
 - [Introduction to Jeppesen Navigation Charts](https://shop.jeppesen.com/images/Introduction_to_Jeppesen_Charts_CAO_Feb_2024.pdf)
     - 杰普逊官方出版的航图手册，笔者也是基于这本手册整理的航图专栏素材。
 - [~~本人总结的杰普逊航图所有可能会出现的符号~~](https://shimo.im/sheets/m8AZM2xXb1Sar6kb/MODOC)
+    - 文档分享权限问题，现停用此链接
 - [美国FAA出版AIM网页版](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/)
     - 配合《中国航行资料汇编》系列，可以作为民航飞行汇编（FAA vs CAAC）比较参考材料。
 - [飞行者联盟航图合集](https://aip.chinaflier.com/#/)
