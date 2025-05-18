@@ -1,5 +1,7 @@
 # Jeppesen-Chart-Intro
 一份通俗易懂的杰普逊航图识读手册，源自个人B站专栏。介于B站和百度云会吞各种连接，我将所有资源留存于此，方便粉丝和读者参考。
+### A Great Update
+CAAC eAIP已经采用全新的航图版面设计，并在四月出版周期中陆续更换。因此本手册也会在近期同步更新，旧版航图识图部分保留，供读者对比参照。
 
 ### Table of Contents
 - 初识（Intro-Intro）
@@ -9,6 +11,7 @@
 - 航路图（ERC）
 - 进近程序简介
 - 仪表进近图（Inst. Appr. Charts）
+- (NEW!)《中国航行资料汇编》航图全新设计
 
 
 ### Useful links
@@ -22,6 +25,7 @@
 - [chartfox航图网站（全球航图整理）](https://chartfox.org/)
     - 需要VATSIM。
 - [Navigraph官网](https://navigraph.com/)
+- [eAIP China/《中国航行资料汇编》官方网站（需注册）](https://www.eaipchina.cn/)
 
 ### Contacting me
 - Email: <betelgeuse142857@sina.com>
